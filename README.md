@@ -1,5 +1,5 @@
 #- 👋 Wena kbros, Me llamo Benjamin
-#- 👀 Ando interesado en bombardear Venezuela
+#- 👀 Ando interesado en dormir
 #- 🌱 Aprendiendo Python
 #- 📫 Si me escriben, rezen porque no ande durmiendo
 #- ⚡ Fun fact: Para todo epsilon mayor a 0, existe un N en los Naturales, tal que, n > N
