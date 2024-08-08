@@ -1,4 +1,4 @@
-#- 👋 Wena kbros, Me llamo Benjamin
+#- 👋 Wena kbros, Mi nombre es Benjamin Alonso Ulloa Mura
 #- 👀 Ando interesado en dormir
 #- 🌱 Aprendiendo Python
 #- 📫 Si me escriben, rezen porque no ande durmiendo
